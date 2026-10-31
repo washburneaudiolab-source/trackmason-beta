@@ -1,5 +1,5 @@
 {
-  "version": "0.9.2",
-  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.2",
-  "notes": "Song Roadmap: every song now has a path to the finish line (idea, lyrics, chords and form, parts, mix, master, ready for the band). TrackMason checks steps off by itself from what's in the song, and the next step opens the right tool. Band Charts: lyrics with the chords above the words and a chord chart with Nashville numbers, transposable, printable, and in ChordPro for chord apps."
+  "version": "0.9.3",
+  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.3",
+  "notes": "Release Package: one click bundles a finished song for your distributor, label or band: the master (WAV and MP3), lyrics, band charts, MIDI, stems if you like, and a song information sheet with the credits. The master's loudness and true peak are checked against what streaming services expect."
 }
