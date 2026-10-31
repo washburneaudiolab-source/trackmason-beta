@@ -1,5 +1,5 @@
 {
-  "version": "0.9.3",
-  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.3",
-  "notes": "Release Package: one click bundles a finished song for your distributor, label or band: the master (WAV and MP3), lyrics, band charts, MIDI, stems if you like, and a song information sheet with the credits. The master's loudness and true peak are checked against what streaming services expect."
+  "version": "0.9.5",
+  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.5",
+  "notes": "Security: TrackMason only works in its own window on this computer, so a malicious web page can't reach it while it's open. Security: updated the bundled image and certificate libraries to versions with every known problem fixed."
 }
