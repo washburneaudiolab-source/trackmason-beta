@@ -7,14 +7,14 @@ play along with you, helps with lyrics, and checks your mix and master.
 
 Everything runs on your own computer. Your songs and lyrics are never uploaded.
 
-## Download version 0.9.0
+## Download version 0.9.1
 
 **[Go to the downloads](https://github.com/washburneaudiolab-source/trackmason-beta/releases/latest)** and pick:
 
 | Computer | File |
 |----------|------|
-| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.0.exe` |
-| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.0-arm64.dmg` |
+| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.1.exe` |
+| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.1-arm64.dmg` |
 
 You need about 15 GB of free space; most of it is the AI songwriter, which
 TrackMason downloads and sets up for you.
@@ -38,21 +38,15 @@ TrackMason downloads and sets up for you.
 3. If asked, allow access to your **Documents** folder (your songs are kept in
    Documents > TrackMason AI). TrackMason then sets up the AI songwriter by itself.
 
-## What's new in 0.9.0
+## What's new in 0.9.1
 
-- First beta: 23 tools grouped by the song-finishing journey.
-- One song, every tool: pick a Current song in the sidebar and every tool uses its tempo, key, chords and audio, and saves what it makes into the song.
-- Start a song from a riff, a recording or a whole multitrack (stems).
-- Hear new drums, chords and melodies played together with your riff.
-- More accurate key and chord detection, including songs with vocals.
-- Mix Analysis now measures loudness (LUFS) and true peak.
-- Report a problem button and update notices.
-- The free AI songwriter installs itself: the installer sets up the AI engine and TrackMason downloads its AI model in the background the first time it starts.
+- TrackMason keeps its dark studio look on computers set to Windows light mode (some fields were white).
+- Problem reports now go to washburneaudiolab@gmail.com.
 
 ## Problems or ideas?
 
 Use **Report a problem** at the bottom of TrackMason's sidebar. It saves a report
-file (with your description and the app's logs, never your songs); send it to
-the person who invited you to the beta.
+file (with your description and the app's logs, never your songs); email it to
+**washburneaudiolab@gmail.com**.
 
 This is beta software for invited testers. Keep backups of your music.
