@@ -1,5 +1,5 @@
 {
-  "version": "0.9.0",
-  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.0",
-  "notes": "First beta: 23 tools grouped by the song-finishing journey. One song, every tool: pick a Current song in the sidebar and every tool uses its tempo, key, chords and audio, and saves what it makes into the song."
+  "version": "0.9.1",
+  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.1",
+  "notes": "TrackMason keeps its dark studio look on computers set to Windows light mode (some fields were white). Problem reports now go to washburneaudiolab@gmail.com."
 }
