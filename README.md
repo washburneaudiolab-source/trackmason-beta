@@ -7,14 +7,14 @@ play along with you, helps with lyrics, and checks your mix and master.
 
 Everything runs on your own computer. Your songs and lyrics are never uploaded.
 
-## Download version 0.9.2
+## Download version 0.9.3
 
 **[Go to the downloads](https://github.com/washburneaudiolab-source/trackmason-beta/releases/latest)** and pick:
 
 | Computer | File |
 |----------|------|
-| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.2.exe` |
-| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.2-arm64.dmg` |
+| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.3.exe` |
+| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.3-arm64.dmg` |
 
 You need about 15 GB of free space; most of it is the AI songwriter, which
 TrackMason downloads and sets up for you.
@@ -38,11 +38,11 @@ TrackMason downloads and sets up for you.
 3. If asked, allow access to your **Documents** folder (your songs are kept in
    Documents > TrackMason AI). TrackMason then sets up the AI songwriter by itself.
 
-## What's new in 0.9.2
+## What's new in 0.9.3
 
-- Song Roadmap: every song now has a path to the finish line (idea, lyrics, chords and form, parts, mix, master, ready for the band). TrackMason checks steps off by itself from what's in the song, and the next step opens the right tool.
-- Band Charts: lyrics with the chords above the words and a chord chart with Nashville numbers, transposable, printable, and in ChordPro for chord apps.
-- AI Mastering can save the master into the song.
+- Release Package: one click bundles a finished song for your distributor, label or band: the master (WAV and MP3), lyrics, band charts, MIDI, stems if you like, and a song information sheet with the credits.
+- The master's loudness and true peak are checked against what streaming services expect.
+- Credits (songwriters, producer, performers, release date, ISRC) are kept with each song.
 
 ## Problems or ideas?
 
