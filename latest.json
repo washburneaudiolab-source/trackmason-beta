@@ -1,5 +1,5 @@
 {
-  "version": "0.9.5",
-  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.5",
-  "notes": "Security: TrackMason only works in its own window on this computer, so a malicious web page can't reach it while it's open. Security: updated the bundled image and certificate libraries to versions with every known problem fixed."
+  "version": "0.9.6",
+  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.6",
+  "notes": "Report a problem, update notices and the version number moved to the bottom of the sidebar, under the tool menu."
 }
