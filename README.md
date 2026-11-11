@@ -7,14 +7,16 @@ play along with you, helps with lyrics, and checks your mix and master.
 
 Everything runs on your own computer. Your songs and lyrics are never uploaded.
 
-## Download version 0.9.8
+Pricing, the 30-day free trial, help and our terms: **[washburneaudiolabs.com](https://washburneaudiolabs.com)**
+
+## Download version 0.9.9
 
 **[Go to the downloads](https://github.com/washburneaudiolab-source/trackmason-beta/releases/latest)** and pick:
 
 | Computer | File |
 |----------|------|
-| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.8.exe` |
-| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.8-arm64.dmg` |
+| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.9.exe` |
+| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.9-arm64.dmg` |
 
 You need about 15 GB of free space; most of it is the AI songwriter, which
 TrackMason downloads and sets up for you.
@@ -22,7 +24,7 @@ TrackMason downloads and sets up for you.
 ## Installing on Windows
 
 1. Open the downloaded installer. Windows may say **"Windows protected your PC"**
-   because this beta isn't signed yet: click **More info**, then **Run anyway**.
+   because the installer isn't signed yet: click **More info**, then **Run anyway**.
 2. Keep **Install the free AI songwriter** ticked. The installer downloads the AI
    engine (about 1.7 GB), so give it a few minutes.
 3. TrackMason opens when it's done. The first time, it downloads its AI model in
@@ -38,14 +40,10 @@ TrackMason downloads and sets up for you.
 3. If asked, allow access to your **Documents** folder (your songs are kept in
    Documents > TrackMason AI). TrackMason then sets up the AI songwriter by itself.
 
-## What's new in 0.9.8
+## What's new in 0.9.9
 
-- AI Mastering is simpler: pick a loudness and press Process Master. The EQ, compression and other sliders are under Fine-tune if you want them.
-- BPM and Key Detection can save a corrected tempo or key into your song, so every tool uses it.
-- Production Coach and Vocal Assistant show their advice first; the measurements are one click away.
-- Clearer tool names and notes. Song Finishing Workspace is now called Finishing Plan.
-- MIDI previews play with new, fuller instrument sounds.
-- The install folder now has THIRD-PARTY-LICENSES.txt listing the open-source parts TrackMason uses.
+- TrackMason opens straight to your work: no more pop-ups when it starts.
+- What's new and update news are at the bottom of the sidebar, under Report a problem.
 
 ## Problems or ideas?
 
