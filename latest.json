@@ -1,5 +1,5 @@
 {
-  "version": "0.9.8",
-  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.8",
-  "notes": "AI Mastering is simpler: pick a loudness and press Process Master. The EQ, compression and other sliders are under Fine-tune if you want them. BPM and Key Detection can save a corrected tempo or key into your song, so every tool uses it."
+  "version": "0.9.9",
+  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.9",
+  "notes": "TrackMason opens straight to your work: no more pop-ups when it starts. What's new and update news are at the bottom of the sidebar, under Report a problem."
 }
