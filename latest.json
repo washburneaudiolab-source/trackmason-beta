@@ -1,5 +1,5 @@
 {
-  "version": "0.9.10",
-  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.10",
-  "notes": "Two editions: Musician (simpler, for singers, bands and church groups) and Recording Studio (every tool, plus studio features). Switch between them at the bottom of the sidebar. Musician edition: Mix Analysis, Mastering and the other tools give plain advice first; the engineering numbers are one click away under See the measurements."
+  "version": "0.9.11",
+  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.11",
+  "notes": "Starting a song from your audio: the \"now your current song\" message shows at the top, and the sidebar switches to the new song straight away. Very long song titles and titles with accents (Caf\u00e9, Canci\u00f3n) now work everywhere, including file names."
 }
