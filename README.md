@@ -9,14 +9,14 @@ Everything runs on your own computer. Your songs and lyrics are never uploaded.
 
 Pricing, the 30-day free trial, help and our terms: **[washburneaudiolabs.com](https://washburneaudiolabs.com)**
 
-## Download version 0.9.9
+## Download version 0.9.10
 
 **[Go to the downloads](https://github.com/washburneaudiolab-source/trackmason-beta/releases/latest)** and pick:
 
 | Computer | File |
 |----------|------|
-| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.9.exe` |
-| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.9-arm64.dmg` |
+| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.10.exe` |
+| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.10-arm64.dmg` |
 
 You need about 15 GB of free space; most of it is the AI songwriter, which
 TrackMason downloads and sets up for you.
@@ -40,10 +40,12 @@ TrackMason downloads and sets up for you.
 3. If asked, allow access to your **Documents** folder (your songs are kept in
    Documents > TrackMason AI). TrackMason then sets up the AI songwriter by itself.
 
-## What's new in 0.9.9
+## What's new in 0.9.10
 
-- TrackMason opens straight to your work: no more pop-ups when it starts.
-- What's new and update news are at the bottom of the sidebar, under Report a problem.
+- Two editions: Musician (simpler, for singers, bands and church groups) and Recording Studio (every tool, plus studio features). Switch between them at the bottom of the sidebar.
+- Musician edition: Mix Analysis, Mastering and the other tools give plain advice first; the engineering numbers are one click away under See the measurements.
+- Recording Studio edition: Clients & Sessions (session log, recall notes, billing), Mix Revisions (numbered versions, client feedback, level-matched A/B, client handoff), Album Mastering, Stem Check, pro meters, masters for each streaming service, and your studio's name and logo on charts and packages.
+- Release Package: saving the credits no longer clears other saved details, and ISRC codes are checked.
 
 ## Problems or ideas?
 
