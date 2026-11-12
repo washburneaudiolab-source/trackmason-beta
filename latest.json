@@ -1,5 +1,5 @@
 {
-  "version": "0.9.9",
-  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.9",
-  "notes": "TrackMason opens straight to your work: no more pop-ups when it starts. What's new and update news are at the bottom of the sidebar, under Report a problem."
+  "version": "0.9.10",
+  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.10",
+  "notes": "Two editions: Musician (simpler, for singers, bands and church groups) and Recording Studio (every tool, plus studio features). Switch between them at the bottom of the sidebar. Musician edition: Mix Analysis, Mastering and the other tools give plain advice first; the engineering numbers are one click away under See the measurements."
 }
