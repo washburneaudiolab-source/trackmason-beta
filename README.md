@@ -9,14 +9,14 @@ Everything runs on your own computer. Your songs and lyrics are never uploaded.
 
 Pricing, the 30-day free trial, help and our terms: **[washburneaudiolabs.com](https://washburneaudiolabs.com)**
 
-## Download version 0.9.11
+## Download version 0.9.13
 
 **[Go to the downloads](https://github.com/washburneaudiolab-source/trackmason-beta/releases/latest)** and pick:
 
 | Computer | File |
 |----------|------|
-| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.11.exe` |
-| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.11-arm64.dmg` |
+| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.13.exe` |
+| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.13-arm64.dmg` |
 
 You need about 15 GB of free space; most of it is the AI songwriter, which
 TrackMason downloads and sets up for you.
@@ -40,12 +40,10 @@ TrackMason downloads and sets up for you.
 3. If asked, allow access to your **Documents** folder (your songs are kept in
    Documents > TrackMason AI). TrackMason then sets up the AI songwriter by itself.
 
-## What's new in 0.9.11
+## What's new in 0.9.13
 
-- Starting a song from your audio: the "now your current song" message shows at the top, and the sidebar switches to the new song straight away.
-- Very long song titles and titles with accents (Café, Canción) now work everywhere, including file names.
-- Release Package warns you if the master is silent or too short.
-- Ready for 1.0: the customer license agreement is built in for the full release (testers keep the beta agreement until then).
+- Everything in 0.9.12, checked over: Song Pass messages, titles and notes from a studio are always shown as plain text (never as links or images), long file names and every file type in a pass arrive safely, and making a session prep pack again replaces the old one instead of adding copies.
+- Recording Studio edition: invoices start fresh after each one and open the new invoice, a clock for a removed client explains what to do, and damaged settings can't stop the studio pages from opening.
 
 ## Problems or ideas?
 
