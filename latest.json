@@ -1,5 +1,5 @@
 {
-  "version": "0.9.13",
-  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.13",
-  "notes": "Everything in 0.9.12, checked over: Song Pass messages, titles and notes from a studio are always shown as plain text (never as links or images), long file names and every file type in a pass arrive safely, and making a session prep pack again replaces the old one instead of adding copies. Recording Studio edition: invoices start fresh after each one and open the new invoice, a clock for a removed client explains what to do, and damaged settings can't stop the studio pages from opening."
+  "version": "0.9.15",
+  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.15",
+  "notes": "Everything in 0.9.14, plus: reloading a tool keeps TrackMason's sidebar and checks (a reload used to open the tool on its own). Damaged settings, a damaged studio logo or a damaged Song Pass record no longer stop a page from opening."
 }
