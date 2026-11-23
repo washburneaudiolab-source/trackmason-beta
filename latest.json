@@ -1,5 +1,5 @@
 {
-  "version": "0.9.15",
-  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.15",
-  "notes": "Everything in 0.9.14, plus: reloading a tool keeps TrackMason's sidebar and checks (a reload used to open the tool on its own). Damaged settings, a damaged studio logo or a damaged Song Pass record no longer stop a page from opening."
+  "version": "0.9.16",
+  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.16",
+  "notes": "TrackMason is for adults only (18 and over), because its AI songwriter can write explicit lyrics. Everyone confirms their age once, on the updated beta agreement."
 }
