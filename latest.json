@@ -1,5 +1,5 @@
 {
-  "version": "0.9.17",
-  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.17",
-  "notes": "The Adult Comedy genre is gone, and the AI songwriter is told to keep lyrics free of sexually explicit content. Songs you saved with that genre still open. TrackMason is no longer adults-only: you must be 18 or older, or have a parent or guardian agree for you."
+  "version": "0.9.18",
+  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.18",
+  "notes": "Behind the scenes: the trial and subscription parts for version 1.0 were rebuilt for our payment partner, Paddle. They stay switched off in the beta, so nothing changes for you."
 }
