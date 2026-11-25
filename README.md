@@ -9,14 +9,14 @@ Everything runs on your own computer. Your songs and lyrics are never uploaded.
 
 Pricing, the 30-day free trial, help and our terms: **[washburneaudiolabs.com](https://washburneaudiolabs.com)**
 
-## Download version 0.9.18
+## Download version 0.9.19
 
 **[Go to the downloads](https://github.com/washburneaudiolab-source/trackmason-beta/releases/latest)** and pick:
 
 | Computer | File |
 |----------|------|
-| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.18.exe` |
-| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.18-arm64.dmg` |
+| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.19.exe` |
+| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.19-arm64.dmg` |
 
 You need about 15 GB of free space; most of it is the AI songwriter, which
 TrackMason downloads and sets up for you.
@@ -40,9 +40,11 @@ TrackMason downloads and sets up for you.
 3. If asked, allow access to your **Documents** folder (your songs are kept in
    Documents > TrackMason AI). TrackMason then sets up the AI songwriter by itself.
 
-## What's new in 0.9.18
+## What's new in 0.9.19
 
-- Behind the scenes: the trial and subscription parts for version 1.0 were rebuilt for our payment partner, Paddle. They stay switched off in the beta, so nothing changes for you.
+- Chords are far more accurate, chord changes land on the beat, and 7th chords are named more often. Your songs are listened to again once, the next time you open them.
+- Key changes are found and shown (for example F minor, then G minor from 3:51), and keys and chords are spelled the way musicians write them: Bb minor, not A# minor.
+- Phone recordings work: add an M4A voice memo and TrackMason reads it on your computer.
 
 ## Problems or ideas?
 
