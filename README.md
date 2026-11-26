@@ -9,14 +9,14 @@ Everything runs on your own computer. Your songs and lyrics are never uploaded.
 
 Pricing, the 30-day free trial, help and our terms: **[washburneaudiolabs.com](https://washburneaudiolabs.com)**
 
-## Download version 0.9.19
+## Download version 0.9.20
 
 **[Go to the downloads](https://github.com/washburneaudiolab-source/trackmason-beta/releases/latest)** and pick:
 
 | Computer | File |
 |----------|------|
-| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.19.exe` |
-| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.19-arm64.dmg` |
+| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.20.exe` |
+| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.20-arm64.dmg` |
 
 You need about 15 GB of free space; most of it is the AI songwriter, which
 TrackMason downloads and sets up for you.
@@ -40,11 +40,12 @@ TrackMason downloads and sets up for you.
 3. If asked, allow access to your **Documents** folder (your songs are kept in
    Documents > TrackMason AI). TrackMason then sets up the AI songwriter by itself.
 
-## What's new in 0.9.19
+## What's new in 0.9.20
 
-- Chords are far more accurate, chord changes land on the beat, and 7th chords are named more often. Your songs are listened to again once, the next time you open them.
-- Key changes are found and shown (for example F minor, then G minor from 3:51), and keys and chords are spelled the way musicians write them: Bb minor, not A# minor.
-- Phone recordings work: add an M4A voice memo and TrackMason reads it on your computer.
+- A full check of every tool in both editions, with dozens of fixes. Tools now forget a result when you pick another song or file, so nothing from one song is saved into another.
+- Your song's chords play as they really are (E major, not E minor) in Chord Progression Studio and Arrangement Studio, Transpose leaves the drums alone, and 6/8 songs keep their timing.
+- Song Passes keep sharp keys (F# minor arrives as F# minor), a damaged pass never leaves half a song behind, and the pass always has your newest mix.
+- Your edits to lyrics are kept when you visit another page, and saving song details no longer sets a tempo you didn't choose.
 
 ## Problems or ideas?
 
