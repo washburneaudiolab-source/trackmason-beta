@@ -9,14 +9,14 @@ Everything runs on your own computer. Your songs and lyrics are never uploaded.
 
 Pricing, the 30-day free trial, help and our terms: **[washburneaudiolabs.com](https://washburneaudiolabs.com)**
 
-## Download version 0.9.20
+## Download version 0.9.21
 
 **[Go to the downloads](https://github.com/washburneaudiolab-source/trackmason-beta/releases/latest)** and pick:
 
 | Computer | File |
 |----------|------|
-| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.20.exe` |
-| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.20-arm64.dmg` |
+| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.21.exe` |
+| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.21-arm64.dmg` |
 
 You need about 15 GB of free space; most of it is the AI songwriter, which
 TrackMason downloads and sets up for you.
@@ -40,12 +40,11 @@ TrackMason downloads and sets up for you.
 3. If asked, allow access to your **Documents** folder (your songs are kept in
    Documents > TrackMason AI). TrackMason then sets up the AI songwriter by itself.
 
-## What's new in 0.9.20
+## What's new in 0.9.21
 
-- A full check of every tool in both editions, with dozens of fixes. Tools now forget a result when you pick another song or file, so nothing from one song is saved into another.
-- Your song's chords play as they really are (E major, not E minor) in Chord Progression Studio and Arrangement Studio, Transpose leaves the drums alone, and 6/8 songs keep their timing.
-- Song Passes keep sharp keys (F# minor arrives as F# minor), a damaged pass never leaves half a song behind, and the pass always has your newest mix.
-- Your edits to lyrics are kept when you visit another page, and saving song details no longer sets a tempo you didn't choose.
+- Blues songs get the right key: a 12-bar blues in D (D7, G7, A7) is now D, not G.
+- A short key change at the very end, like a 4-bar tag up a step, is now found, and a fade-out is no longer reported as a key change.
+- Your songs are checked again once, so their keys pick up these fixes.
 
 ## Problems or ideas?
 
