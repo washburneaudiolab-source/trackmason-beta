@@ -9,14 +9,14 @@ Everything runs on your own computer. Your songs and lyrics are never uploaded.
 
 Pricing, the 30-day free trial, help and our terms: **[washburneaudiolabs.com](https://washburneaudiolabs.com)**
 
-## Download version 0.9.21
+## Download version 0.9.22
 
 **[Go to the downloads](https://github.com/washburneaudiolab-source/trackmason-beta/releases/latest)** and pick:
 
 | Computer | File |
 |----------|------|
-| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.21.exe` |
-| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.21-arm64.dmg` |
+| Windows 10 (22H2) or 11, 64-bit | `TrackMasonAI-Setup-0.9.22.exe` |
+| Mac with Apple Silicon (M1 or newer), macOS 12.3 or newer | `TrackMasonAI-0.9.22-arm64.dmg` |
 
 You need about 15 GB of free space; most of it is the AI songwriter, which
 TrackMason downloads and sets up for you.
@@ -40,11 +40,11 @@ TrackMason downloads and sets up for you.
 3. If asked, allow access to your **Documents** folder (your songs are kept in
    Documents > TrackMason AI). TrackMason then sets up the AI songwriter by itself.
 
-## What's new in 0.9.21
+## What's new in 0.9.22
 
-- Blues songs get the right key: a 12-bar blues in D (D7, G7, A7) is now D, not G.
-- A short key change at the very end, like a 4-bar tag up a step, is now found, and a fade-out is no longer reported as a key change.
-- Your songs are checked again once, so their keys pick up these fixes.
+- Chords change right on time: every chord used to start a few hundredths of a second late, so chord detection is a little more accurate on every kind of song.
+- Fewer false key changes: jazz turns and borrowed chords in the middle of a song are no longer reported as key changes, while a last chorus or tag up a step still is.
+- Your songs are checked again once, so their chords and keys pick up these fixes.
 
 ## Problems or ideas?
 
