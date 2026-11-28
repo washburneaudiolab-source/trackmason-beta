@@ -1,5 +1,5 @@
 {
-  "version": "0.9.21",
-  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.21",
-  "notes": "Blues songs get the right key: a 12-bar blues in D (D7, G7, A7) is now D, not G. A short key change at the very end, like a 4-bar tag up a step, is now found, and a fade-out is no longer reported as a key change."
+  "version": "0.9.22",
+  "download_url": "https://github.com/washburneaudiolab-source/trackmason-beta/releases/tag/v0.9.22",
+  "notes": "Chords change right on time: every chord used to start a few hundredths of a second late, so chord detection is a little more accurate on every kind of song. Fewer false key changes: jazz turns and borrowed chords in the middle of a song are no longer reported as key changes, while a last chorus or tag up a step still is."
 }
